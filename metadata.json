@@ -1,0 +1,6 @@
+{
+  "name": "NSWF Research Dossier & Wikipedia Draft Portal",
+  "description": "Comprehensive investigative research dossier, fact-checking database, and standards-compliant Wikipedia draft portal for Nisarg Srishti Welfare Foundation (NSWF).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
